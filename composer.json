@@ -2,6 +2,7 @@
     "name": "xukai/pro01",
     "description": "第一个 composer 测试项目",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "kai.xu",
